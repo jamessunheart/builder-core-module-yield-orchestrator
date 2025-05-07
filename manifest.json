@@ -1,0 +1,6 @@
+{
+  "name": "yield_orchestrator",
+  "auto_deploy": false,
+  "safety_checks": true,
+  "pause_enabled": true
+}
